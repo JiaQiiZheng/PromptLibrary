@@ -5,8 +5,8 @@ import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 
 export const metadate = {
-  title: "Promptopia",
-  description: "Discover & Share AI Prompts",
+  title: "I&C AI",
+  description: "Prompts From Designers",
 };
 
 const RootLayout = ({ children }) => {
